@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ListViewXamarin.Views.ListViewOrnek">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <!-- List View'ın 3 Tipi vardır-->
+            <!-- Item Template(Listenin verilebileceği template),Header Template(ListView'ın En üstünde bulunan kısım),Footer Template(ListView'ın En altında bulunan kısım) -->
+          <!-- Asıl Olan Item template'dir .cs tarafında yazılan listeyi gösterecek olan template dir.-->
+            
+            <!-- İtemselected ile herhangi bir listeye tıklandığında gidilecek methodu belirtebiliyoruz..-->
+            <ListView x:Name="OgrList" ItemSelected="OnSelected">
+                <ListView.ItemTemplate >
+                    <!-- ListView Kendi başına Controlleri alamaz bundan Dolayı datatemplate'e ihtiyaç duyar-->
+                    <DataTemplate>
+                        <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding ImageURL}" HeightRequest="50"></Image>
+                                <Label Text="{Binding Name}"></Label>
+                                <Label Text="{Binding SurName}"></Label>
+                                <Label Text="{Binding Point}"></Label>
+                          
+
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,12 @@
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\netstandard2.0\ListViewXamarin.deps.json
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\netstandard2.0\ListViewXamarin.dll
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\netstandard2.0\ref\ListViewXamarin.dll
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\bin\Debug\netstandard2.0\ListViewXamarin.pdb
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\Views\ListViewOrnek.xaml.g.cs
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\ListViewXamarin.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\ListViewXamarin.AssemblyInfo.cs
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\ListViewXamarin.dll
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\ref\ListViewXamarin.dll
+C:\Users\alper\Desktop\ListViewXamarin\ListViewXamarin\ListViewXamarin\obj\Debug\netstandard2.0\ListViewXamarin.pdb
